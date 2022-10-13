@@ -9,51 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume](http://jamgochiana.github.io/files/jamgochian_arec_resume_220705.pdf) (July 2022) 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Ph.D in Aeronautics/Astronautics, Minor in Computer Science, Stanford University, 2023 (expected)
+* M.S. in Aeronautics/Astronautics, Stanford University, 2020
+* B.S. in Mechanical Engineering, Minor in International Engineering, University of Maryland, 2016, _Summa Cum Laude_
+* B.S. in Physics, University of Maryland, 2016, _Magna Cum Laude_
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* _Head Teaching Assistant_, Adv. Sequential Decision Making (Stanford AA229/CS239, W22)
+
+Work Experience
 ======
-* Currently signed in to 43 different slack teams
+* Download Resume
+
+Activities
+======
+* Stanford Graduate Community Assistant (2019-)
+* _Treasurer_, Stanford Armenian Students Association (2019-)
+* _Group Coordinator_, Stanford Amnesty International (2019-2020)
+* _Controls Working Group Leader_, Systems Engineering Group (2017-2018)
+* _President_, UMD Armenian Students Union (2014-2016)
+* _Vice President_, UMD Society for Physics Students (2013-2015)
+
+Service
+======
+* Peer review: JAIR, JMLR, RA-L, ICRA, IROS, NeurIPS, AAAI, IJCAI
+* Conference volunteering: L4DC (2022), STARMUS VI (2022)
+
+Awards
+======
+* HIVE 30U30 Armenians in Tech (2020)
+* NSF Graduate Research Fellowship (2019, 3 years)
+* RISE Engineering Leadership Citation (2016)
+* Banneker-Key Scholarship (2012, 4 years)
