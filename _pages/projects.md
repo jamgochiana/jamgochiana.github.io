@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misc. Projects"
+title: "Miscellaneous Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -11,6 +11,7 @@ _Last Updated 09/2022_
 
 Multi-agent reinforcement learning using coordination graphs 
 =====
+![](/images/project-marl.png)
 
 In this project (2021), we made a tutorial and blog post based on Sheng's work on multi-agent reinforcement learning using graph-based attention on a coordination graph of interacting agents. 
 
@@ -77,7 +78,7 @@ We made a Julia library (2019) that implements a Kalman, Extended Kalman, and Un
 3D neural style transfer
 =====
 
-![](/images/projects-3dnst-1.png)
+![](/images/projects_3dnst-1.png)
 
 In this project (2019), we attempted to apply Neural Style Transfer to images with depth channels, with the hopes of being able to blend the style transfer with the depth to make some cool pictures. We had some mixed success, a big problem being style itself is often 2D and doesn't blend well with depth. We still had some pretty cool pictures come out, and there are definitely better ways to do this nowadays.
 
