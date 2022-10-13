@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](http://jamgochiana.github.io/files/jamgochian_arec_resume_220705.pdf) (July 2022) 
+[Download Resumé](http://jamgochiana.github.io/files/jamgochian_arec_resume_220705.pdf) (July 2022) 
 
 Education
 ======
@@ -24,7 +24,7 @@ Teaching
 
 Work Experience
 ======
-* Download Resume
+* Download Resumé above
 
 Activities
 ======
