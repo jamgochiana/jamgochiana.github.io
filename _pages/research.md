@@ -7,7 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-_Last Updated 09/2022_
+_Last Updated 12/2022_
+
+Constrained POMDP planning in continuous spaces
+=====
+![](/images/research_ccs.gif)
+
+Rather than augmenting rewards with penalties for undesired behavior, Constrained Partially Observable Markov Decision Processes (CPOMDPs) plan safely by imposing inviolable hard constraint value budgets. Previous work performing online planning for CPOMDPs has only been applied to discrete action and observation spaces. In this work, we propose algorithms for online CPOMDP planning for continuous state, action, and observation spaces by combining dual ascent with progressive widening. We empirically compare the effectiveness of our proposed algorithms on continuous CPOMDPs that model both toy and real-world safety-critical problems. Additionally, we compare against the use of online solvers for continuous unconstrained POMDPs that scalarize cost constraints into rewards, and investigate the effect of optimistic cost propagation.
+
+[Preprint](https://arxiv.org/abs/2212.12154) \| [Code](https://github.com/sisl/CPOMDPExperiments)
+
 
 Meta-learning for system identification
 =====
