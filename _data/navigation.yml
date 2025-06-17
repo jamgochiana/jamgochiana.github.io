@@ -3,9 +3,12 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Misc. Projects"
+  - title: "Side Projects"
     url: /projects/
         
   - title: "CV"
     url: /files/jamgochian_arec_cv_20250507.pdf
+
+  - title: "Thesis"
+    url: /files/dissertation.pdf
     

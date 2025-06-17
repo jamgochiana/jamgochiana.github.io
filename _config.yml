@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arec Jamgochian"
 title_separator          : "-"
 name                     : &name "Arec Jamgochian"
-description              : &description "Robotics PhD"
+description              : &description "Research Scientist, Terra AI"
 url                      : https://jamgochiana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamgochiana/jamgochiana.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Arec Jamgochian"
   avatar           : "headshot.png"
-  bio              : "Robotics PhD"
-  location         : "Palo Alto, CA"
-  employer         : "Stanford University"
+  bio              : "Research Scientist, Terra AI"
+  location         : "Mountain View, CA"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YNpQqxIAAAAJ"
   email            :
